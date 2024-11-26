@@ -1,3 +1,3 @@
 # calculadora_imc
 
-Aplicativo que calculado IMC criado a partir de um projeto Flutter no android studio.
+Aplicativo que calcula o IMC, criado a partir de um projeto Flutter no android studio.
